@@ -1,0 +1,16 @@
+# Mini Challenge 1
+
+## Add Bootstrap support
+
+### Acceptance Criteria
+1. Add the bootstrap CSS bundle to our base template
+2. Add the bootstrap JS bundle to our base template
+3. Add a navbar
+3.1. Add a link in our navbar that takes users to the home page
+3.2. Add a link to the navbar that takes users to the about page
+4. Update your about page to include a personal picture (doesn't have to be an actual personal pic; you can use a cartoon character, actor, etc)
+
+
+## Bonus:
+Add a custom font to your project and make sure it is visible on the page (apart from the
+bootstrap font).
